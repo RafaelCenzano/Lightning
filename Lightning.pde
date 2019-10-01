@@ -41,7 +41,7 @@ void setup(){
     resetSetting();
 
     // speed up lightning
-    frameRate(120);
+    frameRate(150);
 }
 
 // Set Setting
