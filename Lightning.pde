@@ -39,6 +39,9 @@ void setup(){
 
     // Set setting
     resetSetting();
+
+    // speed up lightning
+    frameRate(120);
 }
 
 // Set Setting
