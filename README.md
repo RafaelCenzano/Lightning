@@ -1,6 +1,8 @@
 Lightning
 =========
 
+[See it in action @ https://rafaelcenzano.com/apjava/starfield](https://rafaelcenzano.com/apjava/lightning)
+
 One way to simulate lightning is with a random walk. In this assignment you will create a program that uses a random walk to seemingly shoot lightning from one side of the screen to the other every time the mouse is pressed. You may find sides 23 to 39 of the [Math.random()](https://docs.google.com/presentation/d/1QIDFHsWJCcBlUY0kE6nmFPAsnpixxL_TZhuGlXAoKuA/edit?usp=sharing) slide presentation and the [Math.random worksheet](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing) helpful.  
 
 Suggested steps to start the assignment
